@@ -52,13 +52,13 @@ cd issue-tracker-backend
 Create and activate a Python virtual environment:
 
 Bash
-# Create the environment
+Create the environment
 python -m venv venv
 
-# Activate the environment
-# On Windows:
+Activate the environment
+On Windows:
 venv\Scripts\activate
-# On macOS/Linux:
+On macOS/Linux:
 source venv/bin/activate
 Install the required packages:
 
