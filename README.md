@@ -40,11 +40,11 @@ Before you begin, ensure you have the following installed on your system:
 To run this project locally, you will need to run the backend and frontend servers in two separate terminals.
 
 ### 1. Clone the Repository
-```bash
+bash
 git clone <your-repository-url>
 cd issue-tracker-app
 
-2. Backend Setup
+### 2. Backend Setup
 Navigate to the backend directory from the project root:
 
 Bash
@@ -70,7 +70,7 @@ Bash
 python app.py
 The backend server will now be running at http://127.0.0.1:5000.
 
-3. Frontend Setup
+### 3. Frontend Setup
 Open a new terminal and navigate to the frontend directory from the project root:
 
 Bash
