@@ -2,9 +2,6 @@
 
 A full-stack issue tracking application built with a Python (Flask) backend and an Angular frontend. This project was developed as a technical assignment and demonstrates a complete CRUD (Create, Read, Update, Delete) workflow with a modern, responsive user interface.
 
-![Issue Tracker Screenshot](<img width="1866" height="986" alt="image" src="https://github.com/user-attachments/assets/47ffafe5-3de4-40e9-bd6b-83116a266210" />
-)
-*(**Note:** You should take a screenshot of your running application, upload it to a site like Imgur, and replace the link above.)*
 
 ---
 ## Features
